@@ -1,6 +1,6 @@
 # 🧾 Use Case Diagram
 
-##👥 Actors
+## 👥 Actors
 **Guest**: A user who searches and books properties.
 
 **Host**: A user who lists properties for rent.
@@ -9,8 +9,8 @@
 
 **Payment Gateway**: External service that handles financial transactions.
 
-##🔍 Core Use Cases
-###For Guests:
+## 🔍 Core Use Cases
+### For Guests:
 - **Register Accoun**t: Sign up and create an account.
 
 - **Search Properties**: Look for available properties to book.
@@ -21,7 +21,7 @@
 
 - **Leave Review**: Provide feedback after a stay.
 
-###For Hosts:
+### For Hosts:
 - **Register Accoun**t: Sign up and create an account.
 
 - **List Property**: Publish property details for renting.
@@ -34,15 +34,15 @@
 
 - **View/Respond to Messages**: Communicate with potential or current guests.
 
-###For Admins:
+### For Admins:
 - **Manage Users**: Add, remove, or edit user accounts.
 
 - **Moderate Listings**: Approve or reject property listings.
 
-###External System:
+### External System:
 - **Payment Gateway**: Handles the Make Payment process triggered during bookings.
 
-##✅ Notes
+## ✅ Notes
 *The Make Payment use case is included in the Book Property process.*
 
 *Each actor interacts with a distinct subset of the system’s functionalities.*

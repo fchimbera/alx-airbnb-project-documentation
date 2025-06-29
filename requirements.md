@@ -2,7 +2,7 @@
 
 This README.md file documents the technical and functional requirements for three core backend features of the Airbnb system based on the use case diagram. It includes API endpoints, input/output specs, validation rules, and performance criteria.
 
-###📌 Features Covered
+### 📌 Features Covered
 
 **User Authentication**
 
